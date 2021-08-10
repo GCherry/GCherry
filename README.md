@@ -28,6 +28,11 @@
 
 ## Latest Music
 <!-- YOUTUBE:START -->
+- [I Believe You](https://www.youtube.com/watch?v=ylAKGIlCSqA)
+- [Chill I Got Work To Do](https://www.youtube.com/watch?v=KV1MMFrPdDg)
+- [Lets Chill Together](https://www.youtube.com/watch?v=QXCI727s8Is)
+- [A Simple Chill](https://www.youtube.com/watch?v=Ejx3LLpYYLI)
+- [Low Key Chill](https://www.youtube.com/watch?v=rUDZFMcaqc8)
 <!-- YOUTUBE:END -->
 
 ---
