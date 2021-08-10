@@ -26,6 +26,9 @@
 <br />
 <br />
 
+## Latest Music
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 [website]: https://www.solidfoundationprep.org/
 [twitter]: https://twitter.com/ChillCousin21
