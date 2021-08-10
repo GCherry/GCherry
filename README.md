@@ -30,6 +30,13 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+---
+![G's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCherry&count_private=true&show_icons=true)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCherry&layout=compact)]
+
+
 [website]: https://www.solidfoundationprep.org/
 [twitter]: https://twitter.com/ChillCousin21
 [twitch]: https://www.twitch.tv/gchillin
