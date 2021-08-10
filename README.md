@@ -36,10 +36,10 @@
 <!-- YOUTUBE:END -->
 
 ---
-![G's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCherry&count_private=true&show_icons=true)
+![G's GitHub stats](https://github-readme-stats.vercel.app/api?username=GCherry&count_private=true&show_icons=true&theme=dark)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCherry&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCherry&layout=compact&theme=dark)
 
 
 [website]: https://www.solidfoundationprep.org/
