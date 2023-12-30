@@ -28,11 +28,11 @@
 
 ## Latest Music
 <!-- YOUTUBE:START -->
-- [Chill Tell Yo Story](https://www.youtube.com/watch?v=bR0nfVo_WPw)
-- [I Believe You](https://www.youtube.com/watch?v=ylAKGIlCSqA)
-- [Chill I Got Work To Do](https://www.youtube.com/watch?v=KV1MMFrPdDg)
-- [Lets Chill Together](https://www.youtube.com/watch?v=QXCI727s8Is)
-- [A Simple Chill](https://www.youtube.com/watch?v=Ejx3LLpYYLI)
+- [Try Me](https://www.youtube.com/watch?v=e2K8wCs_TgU)
+- [Think About It](https://www.youtube.com/watch?v=E3v6wAZQ5vA)
+- [Under The Influence](https://www.youtube.com/watch?v=orKj-lO-Sgo)
+- [Chill, Don&#39;t Blame Yourself](https://www.youtube.com/watch?v=tJSmc4uQ_dA)
+- [Can We Keep It Chill](https://www.youtube.com/watch?v=vwEAbZyf_vo)
 <!-- YOUTUBE:END -->
 
 ---
