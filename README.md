@@ -1,6 +1,6 @@
 ### Whats good!!! I'm Greg - aka [G][website] 👋
 
-## I'm a Husband, Father, Developer, Athlete, Musician, and Teacher!!
+## I'm a Husband, Father, Developer, Athlete, Musician, Coach, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate!
